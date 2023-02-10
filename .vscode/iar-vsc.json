@@ -1,0 +1,7 @@
+{
+    "ewp": "${workspaceFolder}\\EWARM\\LORA_Ethernert_W5500.ewp",
+    "configuration": "LORA_Ethernert_W5500",
+    "compiler": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4\\arm\\bin\\iccarm.exe",
+    "workbench": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4",
+    "toolchain": "C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 8.4"
+}
