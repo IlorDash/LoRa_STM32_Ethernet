@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+**/Obj/*
+**/Debug/*
+**/Release/*
+**/.vs/*
+**/Drivers/**
+**/EWARM/*
